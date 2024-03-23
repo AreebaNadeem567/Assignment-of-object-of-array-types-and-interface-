@@ -21,7 +21,7 @@ interface bankDetails {
     accountNumber : string;
 };
 
-let  myemployee = {
+let  myEmployee = {
     firstName : "Areeba",
     lastName : "Nadeem",
     gender : "Female",
@@ -44,10 +44,10 @@ let  myemployee = {
  }
 };
 
-console.log(myemployee.firstName)
-console.log(myemployee.skills)
-console.log(myemployee.bankDetails)
-console.log(myemployee)
+console.log(myEmployee.firstName);
+console.log(myEmployee.skills);
+console.log(myEmployee.bankDetails);
+console.log(myEmployee);
 
 
 
